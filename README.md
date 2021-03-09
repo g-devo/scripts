@@ -6,3 +6,5 @@ Pasta contendo scripts úteis/para aprendizado e prática, nas seguintes linguag
 - Shell script
 - Batch
 - Kotlin
+- C
+- C#
